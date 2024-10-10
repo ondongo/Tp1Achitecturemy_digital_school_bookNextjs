@@ -9,16 +9,32 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/next-js": "^2.4.1",
+    "@chakra-ui/react": "^2.10.1",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "algoliasearch": "^5.7.0",
+    "firebase": "^10.14.0",
+    "firebase-admin": "^12.6.0",
+    "framer-motion": "^11.11.1",
+    "instantsearch.css": "^8.5.1",
+    "next": "14.2.14",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.14"
+    "react-icons": "^5.3.0",
+    "react-instantsearch": "^7.13.2",
+    "react-instantsearch-core": "^7.13.2",
+    "react-instantsearch-router-nextjs": "^7.0.0",
+    "zod": "^3.23.8",
+    "react-hook-form": "^7.51.0",
+    "@hookform/resolvers": "^3.3.2"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.2.14"
+    "eslint-config-next": "14.2.14",
+    "typescript": "^5"
   }
 }
